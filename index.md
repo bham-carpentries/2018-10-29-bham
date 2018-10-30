@@ -19,6 +19,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+We will check this repository out during the second day:
+```
+git clone https://github.com/bham-carpentries/2018-08-23-bham-rcode.git
+```
+
 {% comment %}
   HEADER
 
